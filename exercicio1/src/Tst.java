@@ -15,10 +15,4 @@ public class Tst {
     System.out.println(ini);
     System.out.println(fim);
     }
-    {
-    ini/=2;
-    fim+=10;
-    System.out.println(ini);
-    System.out.println(fim);
-    } 
 }
