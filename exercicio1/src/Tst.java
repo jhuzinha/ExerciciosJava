@@ -10,8 +10,6 @@ public class Tst {
     System.out.println(fim);
     }
     Tst(int a, int b) {
-    ini+=a;
-    fim+=b;
     System.out.println(ini);
     System.out.println(fim);
     }
